@@ -1,3 +1,8 @@
-First file in this folder || Changes in github
+_First file in this folder || Changes in github
 def print_hello()
     return "Hello"
+
+from datetime import datetime
+
+def return_date()
+    return datetime.now()
